@@ -5,7 +5,7 @@
 -->
 😄 Pronouns: He/Him
 
-👯 I’m looking to collaborate on my SportScraper package
+👯 I’m looking to collaborate on my [SportScraper](https://github.com/cristobalmitchell/sport-scraper) package
 
 📫 How to reach me: cristobalmitchell@gmail.com
 
