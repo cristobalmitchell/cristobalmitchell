@@ -9,7 +9,8 @@ Hi, I am Cristobal (he/him).
 
 👯 I am looking to collaborate on python packages, data visualization, or data science/machine learning books or articles. Anyone interested?
 
-📫 How to reach me: cristobalmitchell@gmail.com  
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cristobalmitchell/)
+
+### How to reach me 
+📫 cristobalmitchell@gmail.com  or [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cristobalmitchell/)
 
 
