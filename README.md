@@ -1,7 +1,7 @@
-## Hello 👋
+### Hello 👋
 Hi, I am Cristobal (he/him).
 
-## Currently...
+### Currently...
 
 🔭 I am currently working on building Kaggle datasets, developing infographics an other data visualizations for Tableau Public, and spreading knowledge on data science/machine learning/statistical modeling.
 
