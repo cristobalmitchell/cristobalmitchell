@@ -1,10 +1,14 @@
-### Hi I'm Cristobal 👋
+## Hello 👋
+Hi, I am Cristobal (he/him).
 
-<!--
-**cristobalmitchell/cristobalmitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-😄 Pronouns: He/Him  
-👯 I’m looking to collaborate on my [SportScraper](https://github.com/cristobalmitchell/sport-scraper) package  
+## Currently...
+
+🔭 I am currently working on building Kaggle datasets, developing infographics an other data visualizations for Tableau Public, and spreading knowledge on data science/machine learning/statistical modeling.
+
+🌱 I am currently learning *php, biostatistics, and pytorch.*
+
+👯 I am looking to collaborate on python packages, data visualization, or data science/machine learning books or articles. Anyone interested?
+
 📫 How to reach me: cristobalmitchell@gmail.com  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cristobalmitchell/)
 
