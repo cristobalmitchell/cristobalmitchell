@@ -11,6 +11,6 @@ Hi, I am Cristobal (he/him).
 
 
 ### How to reach me 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cristobalmitchell/) or 📫 cristobalmitchell@gmail.com
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cristobalmitchell/) or 📫 [Email](mailto:cristobalmitchell@gmail.com)
 
 
