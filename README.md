@@ -5,7 +5,7 @@ Hi, I am Cristobal (he/him).
 
 🔭 I am working on building Kaggle datasets, developing infographics an other data visualizations for Tableau Public, and spreading knowledge on web apis, data science, machine learning, statistical modeling, and alternative data.
 
-👯 I am looking to collaborate on python packages, data visualization, or data science/machine learning books or articles. Anyone interested?
+👯 I am looking to collaborate on Python packages, data visualization, or data science/machine learning books or articles. Anyone interested?
 
 🔎 I am learning C#/.NET, design patterns, and various Javascript frameworks 
 
