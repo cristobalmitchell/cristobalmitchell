@@ -2,7 +2,7 @@
 Hi, I am Cristobal (he/him).
 
 ### Currently...
-I am a Senior Engineering Manager leading a team of front end and back end engineers building internal and client facing web apps. Our company, M Science, focuses on investment research, interactive dashboards, and apis that provide insights surfaced from alternative data.
+I am the VP of Engineering leading a team of front end and back end engineers building internal and client facing web apps. Our company, M Science, focuses on investment research, interactive dashboards, and apis that provide insights surfaced from alternative data.
 
 
 ### How to reach me 
